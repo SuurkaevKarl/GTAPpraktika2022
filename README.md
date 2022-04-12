@@ -3,8 +3,8 @@ Repository for my candidature to the summer internship at gotoAndPlay for the su
 
 The page is designed to showcase a simple video/audio file
 
-> Code was written using Visual Studio Code
-> Local webserver was run using Visual Studio Code extension 'Live Server'
+> Code was written using Visual Studio Code.
+> Local webserver was run using Visual Studio Code extension 'Live Server'.
 
 # Script for the video
 
